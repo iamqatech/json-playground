@@ -2,7 +2,11 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>root</groupId>
    <version>1.0</version>
-   <artifactId>project</artifactId>
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+    <artifactId>project</artifactId>
    <packaging>pom</packaging>
    <name>project</name>
    <modules>
