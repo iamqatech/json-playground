@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "user": {
+        "name": "Prashant",
+        "age": 30,
+        "location": "Bangalore"
+      },
+      "skills": [
+        "Java",
+        "Selenium",
+        "Cucumber"
+      ]
+    },
+    {
+      "user": {
+        "name": "Komal",
+        "age": 24,
+        "location": "Gurgaon"
+      },
+      "skills": [
+        "Python",
+        "Selenium",
+        "TestNG"
+      ]
+    }
+  ]
+}
